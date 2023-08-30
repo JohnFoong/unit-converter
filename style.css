@@ -1,0 +1,66 @@
+body {
+  background-color: rgba(137, 196, 244, 1);
+}
+
+#b1,
+#b2,
+#b3,
+#b4 {
+  width: 130px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: #3333ff;
+  border: 1px solid #3333ff;
+  color: white;
+}
+
+#b1:hover,
+#b2:hover,
+#b3:hover,
+#b4:hover {
+  background-color: #0000cc;
+  border: 1px solid#0000cc;
+}
+
+#one,
+#ones,
+#two,
+#twos,
+#three,
+#threes,
+#four,
+#fours {
+  display: none;
+}
+
+.top2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#b10,
+#b11,
+#b20,
+#b21,
+#b30,
+#b31,
+#b40,
+#b41 {
+  background-color: rgb(131, 251, 251);
+  border: 1px solid rgb(131, 251, 251);
+  border-radius: 8px;
+  width: 120px;
+  height: 35px;
+  display: none;
+}
+#b10:hover,
+#b11:hover,
+#b20:hover,
+#b21:hover,
+#b30:hover,
+#b31:hover,
+#b40:hover,
+#b41:hover {
+  background-color: rgb(1, 238, 238);
+  border: rgb(1, 238, 238);
+}
